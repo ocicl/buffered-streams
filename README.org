@@ -1,0 +1,9 @@
+* buffered-streams
+
+A library that provides buffering for underlying streams, avoiding frequent I/O operations during frequent seeking to improve performance.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/bohonghuang/buffered-streams.git |
+| commit  | 0000000                                                  |
+| systems | buffered-streams                                         |
+|---------+----------------------------------------------------------|
