@@ -4,6 +4,6 @@ A library that provides buffering for underlying streams, avoiding frequent I/O 
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/bohonghuang/buffered-streams.git |
-| commit  | ad30dd6                                                  |
+| commit  | 7503cd5                                                  |
 | systems | buffered-streams                                         |
 |---------+----------------------------------------------------------|
