@@ -7,4 +7,4 @@ A library that provides buffering for underlying streams, avoiding frequent I/O 
 | commit  | 3692dce                                                  |
 | systems | buffered-streams                                         |
 |---------+----------------------------------------------------------|
- 
+  
